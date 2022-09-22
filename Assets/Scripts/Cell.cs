@@ -12,9 +12,11 @@ public class Cell : MonoBehaviour
     public Sprite mineTexture;
     [SerializeField] SpriteRenderer cellSprite;
     [SerializeField] TextMeshProUGUI gameFinished;
+    [SerializeField] GameObject victory;
+    [SerializeField] Timer timer;
 
 
-    private const float minePercentPerGame = 0.15f;
+    private const float minePercentPerGame = 0.01f;
 
     void Start()
     {
@@ -22,8 +24,6 @@ public class Cell : MonoBehaviour
         int x = (int)this.transform.position.x;
         int y = (int)this.transform.parent.transform.position.y;
         GridHelper.cells[x, y] = this;
-
-        //loadTexture(1);
     }
 
     public void loadTexture(int adjacentCount)
@@ -48,6 +48,8 @@ public class Cell : MonoBehaviour
         if(hasMine)
         {
             GridHelper.UncoverAllTheMines();
+            //Terminar la partida
+            //Bloquear las celdas
         }
         else
         {
@@ -57,8 +59,12 @@ public class Cell : MonoBehaviour
             GridHelper.FloodFillUncover(x, y, new bool[GridHelper.w, GridHelper.h]);
             if (GridHelper.HasTheGameEnded())
             {
-
+                print("Fin de la partida");
+                victory.SetActive(true);
+                
             }
         }
     }
+
+
 }

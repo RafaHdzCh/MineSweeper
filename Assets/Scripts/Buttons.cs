@@ -6,29 +6,17 @@ using UnityEngine.UI;
 
 public class Buttons : MonoBehaviour
 {
-    [SerializeField] GameObject mainMenu;
-    [SerializeField] GameObject boardGame;
-    [SerializeField] Image mainMenuBackgroundImage;
-
-    public void PlayGame()
-    {
-        mainMenu.SetActive(false);
-        boardGame.SetActive(true);
-    }
-
     public void QuitGame()
     {
         Application.Quit();
+
+        #if UNITY_EDITOR
+        UnityEditor.EditorApplication.isPlaying = false;
+        #endif
     }
 
     public void ReloadGame()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
-    }
-
-    public void BackButton()
-    {
-        boardGame.SetActive(false);
-        mainMenu.SetActive(true);
     }
 }

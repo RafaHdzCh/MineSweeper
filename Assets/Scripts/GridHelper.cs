@@ -36,12 +36,12 @@ public class GridHelper : MonoBehaviour
     {
         int count = 0;
         if (HasMineAt(x - 1, y - 1)) count++;   //Abajo-izquierda
-        if (HasMineAt(x - 1, y    )) count++;   //Abajo-centro
+        if (HasMineAt(x - 1, y    )) count++;   //Abajo
         if (HasMineAt(x - 1, y + 1)) count++;   //Abajo-derecha
-        if (HasMineAt(x    , y - 1)) count++;   //Medio-izquierda
-        if (HasMineAt(x    , y + 1)) count++;   //Medio-derecha
+        if (HasMineAt(x    , y - 1)) count++;   //izquierda
+        if (HasMineAt(x    , y + 1)) count++;   //derecha
         if (HasMineAt(x + 1, y - 1)) count++;   //Arriba-izquierda
-        if (HasMineAt(x + 1, y    )) count++;   //Arriba-centro
+        if (HasMineAt(x + 1, y    )) count++;   //Arriba
         if (HasMineAt(x + 1, y + 1)) count++;   //Arriba-derecha
 
         return count;
