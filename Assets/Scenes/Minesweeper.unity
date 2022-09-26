@@ -262,7 +262,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &8647781
 GameObject:
   m_ObjectHideFlags: 0
@@ -402,7 +402,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &8966819
 GameObject:
   m_ObjectHideFlags: 0
@@ -542,7 +542,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &19471640
 GameObject:
   m_ObjectHideFlags: 0
@@ -682,7 +682,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &32555152
 GameObject:
   m_ObjectHideFlags: 0
@@ -822,7 +822,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &33085738
 GameObject:
   m_ObjectHideFlags: 0
@@ -962,7 +962,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &34200133
 GameObject:
   m_ObjectHideFlags: 0
@@ -1102,7 +1102,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &44334564
 GameObject:
   m_ObjectHideFlags: 0
@@ -1242,7 +1242,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &45024595
 GameObject:
   m_ObjectHideFlags: 0
@@ -1382,7 +1382,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &49631098
 GameObject:
   m_ObjectHideFlags: 0
@@ -1522,7 +1522,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &51246064
 GameObject:
   m_ObjectHideFlags: 0
@@ -1662,7 +1662,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &62609382
 GameObject:
   m_ObjectHideFlags: 0
@@ -1802,7 +1802,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &65084808
 GameObject:
   m_ObjectHideFlags: 0
@@ -1942,7 +1942,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &67797789
 GameObject:
   m_ObjectHideFlags: 0
@@ -2082,7 +2082,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &80083567
 GameObject:
   m_ObjectHideFlags: 0
@@ -2269,7 +2269,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &95343429
 GameObject:
   m_ObjectHideFlags: 0
@@ -2409,7 +2409,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &122599078
 GameObject:
   m_ObjectHideFlags: 0
@@ -2549,7 +2549,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &130475690
 GameObject:
   m_ObjectHideFlags: 0
@@ -2689,7 +2689,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &134596000
 GameObject:
   m_ObjectHideFlags: 0
@@ -2829,7 +2829,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &134980132
 GameObject:
   m_ObjectHideFlags: 0
@@ -2969,7 +2969,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &138005268
 GameObject:
   m_ObjectHideFlags: 0
@@ -3109,7 +3109,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &148395907
 GameObject:
   m_ObjectHideFlags: 0
@@ -3296,7 +3296,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &156502459
 GameObject:
   m_ObjectHideFlags: 0
@@ -3436,7 +3436,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &165741748
 GameObject:
   m_ObjectHideFlags: 0
@@ -3515,9 +3515,9 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1892615810}
+  - {fileID: 224306676}
   - {fileID: 1148772965}
   - {fileID: 1254922054}
-  - {fileID: 224306676}
   m_Father: {fileID: 2097182821}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -3703,7 +3703,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &218651457
 GameObject:
   m_ObjectHideFlags: 0
@@ -3843,7 +3843,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &223125937
 GameObject:
   m_ObjectHideFlags: 0
@@ -3983,7 +3983,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &224306675
 GameObject:
   m_ObjectHideFlags: 0
@@ -4017,7 +4017,7 @@ RectTransform:
   m_Children:
   - {fileID: 1893775383}
   m_Father: {fileID: 175215220}
-  m_RootOrder: 3
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
@@ -4275,7 +4275,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &228021200
 GameObject:
   m_ObjectHideFlags: 0
@@ -4415,7 +4415,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &243477773
 GameObject:
   m_ObjectHideFlags: 0
@@ -4555,7 +4555,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &250355178
 GameObject:
   m_ObjectHideFlags: 0
@@ -4695,7 +4695,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &258307160
 GameObject:
   m_ObjectHideFlags: 0
@@ -4835,7 +4835,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &258692986
 GameObject:
   m_ObjectHideFlags: 0
@@ -4975,7 +4975,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &261350634
 GameObject:
   m_ObjectHideFlags: 0
@@ -5115,7 +5115,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &269272895
 GameObject:
   m_ObjectHideFlags: 0
@@ -5255,7 +5255,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &276347733
 GameObject:
   m_ObjectHideFlags: 0
@@ -5395,7 +5395,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &285585038
 GameObject:
   m_ObjectHideFlags: 0
@@ -5535,7 +5535,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &293378800
 GameObject:
   m_ObjectHideFlags: 0
@@ -5675,7 +5675,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &293903138
 GameObject:
   m_ObjectHideFlags: 0
@@ -5815,7 +5815,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &301142304
 GameObject:
   m_ObjectHideFlags: 0
@@ -5955,7 +5955,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &329605296
 GameObject:
   m_ObjectHideFlags: 0
@@ -6095,7 +6095,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &333282981
 GameObject:
   m_ObjectHideFlags: 0
@@ -6282,7 +6282,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &348445948
 GameObject:
   m_ObjectHideFlags: 0
@@ -6422,7 +6422,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &351088579
 GameObject:
   m_ObjectHideFlags: 0
@@ -6562,7 +6562,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &353542751
 GameObject:
   m_ObjectHideFlags: 0
@@ -6702,7 +6702,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &369594862
 GameObject:
   m_ObjectHideFlags: 0
@@ -6918,7 +6918,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &393883724
 GameObject:
   m_ObjectHideFlags: 0
@@ -7058,7 +7058,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &393992503
 GameObject:
   m_ObjectHideFlags: 0
@@ -7198,7 +7198,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &398121007
 GameObject:
   m_ObjectHideFlags: 0
@@ -7338,7 +7338,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &427686399
 GameObject:
   m_ObjectHideFlags: 0
@@ -7478,7 +7478,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &448499439
 GameObject:
   m_ObjectHideFlags: 0
@@ -7618,7 +7618,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &454360295
 GameObject:
   m_ObjectHideFlags: 0
@@ -7805,7 +7805,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &459867378
 GameObject:
   m_ObjectHideFlags: 0
@@ -7945,7 +7945,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &459946540
 GameObject:
   m_ObjectHideFlags: 0
@@ -8085,7 +8085,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &460016458
 GameObject:
   m_ObjectHideFlags: 0
@@ -8225,7 +8225,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &463636678
 GameObject:
   m_ObjectHideFlags: 0
@@ -8365,7 +8365,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &467999340
 GameObject:
   m_ObjectHideFlags: 0
@@ -8505,7 +8505,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &480432198
 GameObject:
   m_ObjectHideFlags: 0
@@ -8645,7 +8645,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &483705205
 GameObject:
   m_ObjectHideFlags: 0
@@ -8785,7 +8785,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &485431120
 GameObject:
   m_ObjectHideFlags: 0
@@ -8925,7 +8925,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &494934112
 GameObject:
   m_ObjectHideFlags: 0
@@ -9065,7 +9065,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &497122954
 GameObject:
   m_ObjectHideFlags: 0
@@ -9205,7 +9205,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &506343374
 GameObject:
   m_ObjectHideFlags: 0
@@ -9345,7 +9345,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &513729997
 GameObject:
   m_ObjectHideFlags: 0
@@ -9704,7 +9704,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &541352817
 GameObject:
   m_ObjectHideFlags: 0
@@ -9844,7 +9844,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &541659770
 GameObject:
   m_ObjectHideFlags: 0
@@ -9984,7 +9984,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &552016555
 GameObject:
   m_ObjectHideFlags: 0
@@ -10124,7 +10124,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &556002950
 GameObject:
   m_ObjectHideFlags: 0
@@ -10264,7 +10264,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &562539402
 GameObject:
   m_ObjectHideFlags: 0
@@ -10404,7 +10404,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &577226713
 GameObject:
   m_ObjectHideFlags: 0
@@ -10544,7 +10544,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &585622824
 GameObject:
   m_ObjectHideFlags: 0
@@ -10684,7 +10684,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &589717766
 GameObject:
   m_ObjectHideFlags: 0
@@ -10824,7 +10824,83 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
+--- !u!1 &594551773
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 594551774}
+  - component: {fileID: 594551776}
+  - component: {fileID: 594551775}
+  m_Layer: 5
+  m_Name: Image
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &594551774
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 594551773}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 5, y: 5, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2020613406}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0.5}
+  m_AnchorMax: {x: 0, y: 0.5}
+  m_AnchoredPosition: {x: 300, y: 0}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &594551775
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 594551773}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 21300004, guid: 1eaee135ce037439d925cee5e41ce026, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 1
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &594551776
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 594551773}
+  m_CullTransparentMesh: 1
 --- !u!1 &596636508
 GameObject:
   m_ObjectHideFlags: 0
@@ -10964,7 +11040,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &617451121
 GameObject:
   m_ObjectHideFlags: 0
@@ -11104,7 +11180,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &623517010
 GameObject:
   m_ObjectHideFlags: 0
@@ -11244,7 +11320,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &624189827
 GameObject:
   m_ObjectHideFlags: 0
@@ -11384,7 +11460,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &649385823
 GameObject:
   m_ObjectHideFlags: 0
@@ -11524,7 +11600,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &657281492
 GameObject:
   m_ObjectHideFlags: 0
@@ -11664,7 +11740,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &660248876
 GameObject:
   m_ObjectHideFlags: 0
@@ -11804,7 +11880,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &670304518
 GameObject:
   m_ObjectHideFlags: 0
@@ -11944,7 +12020,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &670552974
 GameObject:
   m_ObjectHideFlags: 0
@@ -12084,7 +12160,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &681712253
 GameObject:
   m_ObjectHideFlags: 0
@@ -12224,7 +12300,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &695115943
 GameObject:
   m_ObjectHideFlags: 0
@@ -12364,7 +12440,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &696838137
 GameObject:
   m_ObjectHideFlags: 0
@@ -12504,7 +12580,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &707728807
 GameObject:
   m_ObjectHideFlags: 0
@@ -12644,7 +12720,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &724761473
 GameObject:
   m_ObjectHideFlags: 0
@@ -12784,7 +12860,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &730763589
 GameObject:
   m_ObjectHideFlags: 0
@@ -13000,7 +13076,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &736882737
 GameObject:
   m_ObjectHideFlags: 0
@@ -13140,7 +13216,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &742635689
 GameObject:
   m_ObjectHideFlags: 0
@@ -13280,7 +13356,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &743727853
 GameObject:
   m_ObjectHideFlags: 0
@@ -13420,7 +13496,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &759951023
 GameObject:
   m_ObjectHideFlags: 0
@@ -13560,7 +13636,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &770739497
 GameObject:
   m_ObjectHideFlags: 0
@@ -13700,7 +13776,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &771517663
 GameObject:
   m_ObjectHideFlags: 0
@@ -13840,7 +13916,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &771868571
 GameObject:
   m_ObjectHideFlags: 0
@@ -13980,7 +14056,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &773088043
 GameObject:
   m_ObjectHideFlags: 0
@@ -14120,7 +14196,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &773723257
 GameObject:
   m_ObjectHideFlags: 0
@@ -14260,7 +14336,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &781071958
 GameObject:
   m_ObjectHideFlags: 0
@@ -14400,7 +14476,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &782887516
 GameObject:
   m_ObjectHideFlags: 0
@@ -14540,7 +14616,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &784559194
 GameObject:
   m_ObjectHideFlags: 0
@@ -14680,7 +14756,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &791328672
 GameObject:
   m_ObjectHideFlags: 0
@@ -14820,7 +14896,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &796363645
 GameObject:
   m_ObjectHideFlags: 0
@@ -14960,7 +15036,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &803278303
 GameObject:
   m_ObjectHideFlags: 0
@@ -15100,7 +15176,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &813152301
 GameObject:
   m_ObjectHideFlags: 0
@@ -15240,7 +15316,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &819908035
 GameObject:
   m_ObjectHideFlags: 0
@@ -15380,7 +15456,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &842920068
 GameObject:
   m_ObjectHideFlags: 0
@@ -15520,7 +15596,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &845034606
 GameObject:
   m_ObjectHideFlags: 0
@@ -15660,7 +15736,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &847534634
 GameObject:
   m_ObjectHideFlags: 0
@@ -15902,7 +15978,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &848977225
 GameObject:
   m_ObjectHideFlags: 0
@@ -16042,7 +16118,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &851720849
 GameObject:
   m_ObjectHideFlags: 0
@@ -16053,6 +16129,7 @@ GameObject:
   m_Component:
   - component: {fileID: 851720850}
   - component: {fileID: 851720851}
+  - component: {fileID: 851720852}
   m_Layer: 0
   m_Name: _GameManager
   m_TagString: Untagged
@@ -16085,6 +16162,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fcd16de9b8b984fb78ca67479a873edf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &851720852
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 851720849}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4311a03ed97524ccd97269647522a450, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &852927808
@@ -16226,7 +16315,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &854349330
 GameObject:
   m_ObjectHideFlags: 0
@@ -16413,7 +16502,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &854929741
 GameObject:
   m_ObjectHideFlags: 0
@@ -16553,7 +16642,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &855517790
 GameObject:
   m_ObjectHideFlags: 0
@@ -16693,7 +16782,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &861958149
 GameObject:
   m_ObjectHideFlags: 0
@@ -16833,7 +16922,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &880070296
 GameObject:
   m_ObjectHideFlags: 0
@@ -16973,7 +17062,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &890900779
 GameObject:
   m_ObjectHideFlags: 0
@@ -17113,7 +17202,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &892072796
 GameObject:
   m_ObjectHideFlags: 0
@@ -17300,7 +17389,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &901980284
 GameObject:
   m_ObjectHideFlags: 0
@@ -17440,7 +17529,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &931252671
 GameObject:
   m_ObjectHideFlags: 0
@@ -17580,7 +17669,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &943162399
 GameObject:
   m_ObjectHideFlags: 0
@@ -17720,7 +17809,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &950587096
 GameObject:
   m_ObjectHideFlags: 0
@@ -17907,7 +17996,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &962821280
 GameObject:
   m_ObjectHideFlags: 0
@@ -18047,7 +18136,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &986394181
 GameObject:
   m_ObjectHideFlags: 0
@@ -18187,7 +18276,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &995261815
 GameObject:
   m_ObjectHideFlags: 0
@@ -18327,7 +18416,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1002580960
 GameObject:
   m_ObjectHideFlags: 0
@@ -18467,7 +18556,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1006693991
 GameObject:
   m_ObjectHideFlags: 0
@@ -18607,7 +18696,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1010405846
 GameObject:
   m_ObjectHideFlags: 0
@@ -18747,7 +18836,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1042826948
 GameObject:
   m_ObjectHideFlags: 0
@@ -18887,7 +18976,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1070935909
 GameObject:
   m_ObjectHideFlags: 0
@@ -19027,7 +19116,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1071022050
 GameObject:
   m_ObjectHideFlags: 0
@@ -19167,7 +19256,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1071319534
 GameObject:
   m_ObjectHideFlags: 0
@@ -19307,7 +19396,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1075273622
 GameObject:
   m_ObjectHideFlags: 0
@@ -19570,7 +19659,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1098074706
 GameObject:
   m_ObjectHideFlags: 0
@@ -19710,7 +19799,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1111022828
 GameObject:
   m_ObjectHideFlags: 0
@@ -19850,7 +19939,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1132060757
 GameObject:
   m_ObjectHideFlags: 0
@@ -19990,7 +20079,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1132476915
 GameObject:
   m_ObjectHideFlags: 0
@@ -20130,7 +20219,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1140433471
 GameObject:
   m_ObjectHideFlags: 0
@@ -20211,7 +20300,7 @@ RectTransform:
   m_Children:
   - {fileID: 513729998}
   m_Father: {fileID: 175215220}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 0}
@@ -20451,7 +20540,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1160872068
 GameObject:
   m_ObjectHideFlags: 0
@@ -20591,7 +20680,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1169321370
 GameObject:
   m_ObjectHideFlags: 0
@@ -20778,7 +20867,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1189637010
 GameObject:
   m_ObjectHideFlags: 0
@@ -20918,7 +21007,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1192693130
 GameObject:
   m_ObjectHideFlags: 0
@@ -21058,7 +21147,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1207546568
 GameObject:
   m_ObjectHideFlags: 0
@@ -21198,7 +21287,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1212611270
 GameObject:
   m_ObjectHideFlags: 0
@@ -21473,7 +21562,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1250271572
 GameObject:
   m_ObjectHideFlags: 0
@@ -21613,7 +21702,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1254922053
 GameObject:
   m_ObjectHideFlags: 0
@@ -21647,7 +21736,7 @@ RectTransform:
   m_Children:
   - {fileID: 1212611271}
   m_Father: {fileID: 175215220}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -21887,7 +21976,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1259244658
 GameObject:
   m_ObjectHideFlags: 0
@@ -22027,7 +22116,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1262350229
 GameObject:
   m_ObjectHideFlags: 0
@@ -22167,7 +22256,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1264111138
 GameObject:
   m_ObjectHideFlags: 0
@@ -22354,7 +22443,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1272493541
 GameObject:
   m_ObjectHideFlags: 0
@@ -22494,7 +22583,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1281466595
 GameObject:
   m_ObjectHideFlags: 0
@@ -22634,7 +22723,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1282975629
 GameObject:
   m_ObjectHideFlags: 0
@@ -22774,7 +22863,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1286642745
 GameObject:
   m_ObjectHideFlags: 0
@@ -22914,7 +23003,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1295916411
 GameObject:
   m_ObjectHideFlags: 0
@@ -23054,7 +23143,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1304265920
 GameObject:
   m_ObjectHideFlags: 0
@@ -23194,7 +23283,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1305379739
 GameObject:
   m_ObjectHideFlags: 0
@@ -23334,7 +23423,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1308548548
 GameObject:
   m_ObjectHideFlags: 0
@@ -23365,7 +23454,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1308548550
 SpriteRenderer:
@@ -23558,7 +23647,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1329795505
 GameObject:
   m_ObjectHideFlags: 0
@@ -23698,7 +23787,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1342066832
 GameObject:
   m_ObjectHideFlags: 0
@@ -23838,7 +23927,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1344703991
 GameObject:
   m_ObjectHideFlags: 0
@@ -23978,7 +24067,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1348302374
 GameObject:
   m_ObjectHideFlags: 0
@@ -24118,7 +24207,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1349231975
 GameObject:
   m_ObjectHideFlags: 0
@@ -24258,7 +24347,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1364435860
 GameObject:
   m_ObjectHideFlags: 0
@@ -24398,7 +24487,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1372132460
 GameObject:
   m_ObjectHideFlags: 0
@@ -24538,7 +24627,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1382019777
 GameObject:
   m_ObjectHideFlags: 0
@@ -24678,7 +24767,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1392078903
 GameObject:
   m_ObjectHideFlags: 0
@@ -24818,7 +24907,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1409432571
 GameObject:
   m_ObjectHideFlags: 0
@@ -24865,7 +24954,7 @@ Transform:
   - {fileID: 333282982}
   - {fileID: 1264111139}
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1409432573
 MonoBehaviour:
@@ -25018,7 +25107,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1416671194
 GameObject:
   m_ObjectHideFlags: 0
@@ -25158,7 +25247,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1419441478
 GameObject:
   m_ObjectHideFlags: 0
@@ -25298,7 +25387,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1419918523
 GameObject:
   m_ObjectHideFlags: 0
@@ -25438,7 +25527,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1420318721
 GameObject:
   m_ObjectHideFlags: 0
@@ -25578,7 +25667,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1431451850
 GameObject:
   m_ObjectHideFlags: 0
@@ -25718,7 +25807,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1433048566
 GameObject:
   m_ObjectHideFlags: 0
@@ -25858,7 +25947,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1434900074
 GameObject:
   m_ObjectHideFlags: 0
@@ -25998,7 +26087,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1435014749
 GameObject:
   m_ObjectHideFlags: 0
@@ -26138,7 +26227,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1443138385
 GameObject:
   m_ObjectHideFlags: 0
@@ -26278,7 +26367,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1443297254
 GameObject:
   m_ObjectHideFlags: 0
@@ -26418,7 +26507,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1446789451
 GameObject:
   m_ObjectHideFlags: 0
@@ -26558,7 +26647,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1447397226
 GameObject:
   m_ObjectHideFlags: 0
@@ -26698,7 +26787,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1477855937
 GameObject:
   m_ObjectHideFlags: 0
@@ -26838,7 +26927,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1478245103
 GameObject:
   m_ObjectHideFlags: 0
@@ -26978,7 +27067,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1489578521
 GameObject:
   m_ObjectHideFlags: 0
@@ -27118,7 +27207,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1492117659
 GameObject:
   m_ObjectHideFlags: 0
@@ -27258,7 +27347,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1499902365
 GameObject:
   m_ObjectHideFlags: 0
@@ -27398,7 +27487,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1500132876
 GameObject:
   m_ObjectHideFlags: 0
@@ -27538,7 +27627,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1516804125
 GameObject:
   m_ObjectHideFlags: 0
@@ -27678,7 +27767,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1520551560
 GameObject:
   m_ObjectHideFlags: 0
@@ -27818,7 +27907,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1521434806
 GameObject:
   m_ObjectHideFlags: 0
@@ -27958,7 +28047,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1534389306
 GameObject:
   m_ObjectHideFlags: 0
@@ -28145,7 +28234,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1537692447
 GameObject:
   m_ObjectHideFlags: 0
@@ -28285,7 +28374,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1545615963
 GameObject:
   m_ObjectHideFlags: 0
@@ -28425,7 +28514,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1547012357
 GameObject:
   m_ObjectHideFlags: 0
@@ -28565,7 +28654,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1549041155
 GameObject:
   m_ObjectHideFlags: 0
@@ -28705,7 +28794,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1552208815
 GameObject:
   m_ObjectHideFlags: 0
@@ -28845,7 +28934,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1570378882
 GameObject:
   m_ObjectHideFlags: 0
@@ -28985,7 +29074,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1579189266
 GameObject:
   m_ObjectHideFlags: 0
@@ -29125,7 +29214,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1588377361
 GameObject:
   m_ObjectHideFlags: 0
@@ -29265,7 +29354,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1597143066
 GameObject:
   m_ObjectHideFlags: 0
@@ -29405,7 +29494,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1598568128
 GameObject:
   m_ObjectHideFlags: 0
@@ -29545,7 +29634,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1601620382
 GameObject:
   m_ObjectHideFlags: 0
@@ -29685,7 +29774,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1602430368
 GameObject:
   m_ObjectHideFlags: 0
@@ -29825,7 +29914,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1605005409
 GameObject:
   m_ObjectHideFlags: 0
@@ -29965,7 +30054,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1622449452
 GameObject:
   m_ObjectHideFlags: 0
@@ -30105,7 +30194,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1628692425
 GameObject:
   m_ObjectHideFlags: 0
@@ -30245,7 +30334,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1631586661
 GameObject:
   m_ObjectHideFlags: 0
@@ -30385,7 +30474,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1636335131
 GameObject:
   m_ObjectHideFlags: 0
@@ -30572,7 +30661,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1641033811
 GameObject:
   m_ObjectHideFlags: 0
@@ -30712,7 +30801,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1642571938
 GameObject:
   m_ObjectHideFlags: 0
@@ -30852,7 +30941,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1651534236
 GameObject:
   m_ObjectHideFlags: 0
@@ -30992,7 +31081,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1655904096
 GameObject:
   m_ObjectHideFlags: 0
@@ -31132,7 +31221,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1660596400
 GameObject:
   m_ObjectHideFlags: 0
@@ -31180,6 +31269,82 @@ Transform:
   m_Father: {fileID: 1409432572}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1665461468
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1665461469}
+  - component: {fileID: 1665461471}
+  - component: {fileID: 1665461470}
+  m_Layer: 5
+  m_Name: Image (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1665461469
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1665461468}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 5, y: 5, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2020613406}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 1, y: 0.5}
+  m_AnchorMax: {x: 1, y: 0.5}
+  m_AnchoredPosition: {x: -300, y: 0}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1665461470
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1665461468}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 21300004, guid: 1eaee135ce037439d925cee5e41ce026, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 1
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &1665461471
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1665461468}
+  m_CullTransparentMesh: 1
 --- !u!1 &1687177684
 GameObject:
   m_ObjectHideFlags: 0
@@ -31319,7 +31484,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1689347288
 GameObject:
   m_ObjectHideFlags: 0
@@ -31459,7 +31624,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1704020439
 GameObject:
   m_ObjectHideFlags: 0
@@ -31599,7 +31764,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1710637458
 GameObject:
   m_ObjectHideFlags: 0
@@ -31739,7 +31904,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1715475656
 GameObject:
   m_ObjectHideFlags: 0
@@ -31879,7 +32044,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1719805146
 GameObject:
   m_ObjectHideFlags: 0
@@ -32019,7 +32184,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1728601387
 GameObject:
   m_ObjectHideFlags: 0
@@ -32159,7 +32324,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1733809299
 GameObject:
   m_ObjectHideFlags: 0
@@ -32299,7 +32464,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1741108484
 GameObject:
   m_ObjectHideFlags: 0
@@ -32439,7 +32604,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1748307092
 GameObject:
   m_ObjectHideFlags: 0
@@ -32579,7 +32744,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1763381038
 GameObject:
   m_ObjectHideFlags: 0
@@ -32719,7 +32884,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1778139654
 GameObject:
   m_ObjectHideFlags: 0
@@ -32859,7 +33024,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1779982979
 GameObject:
   m_ObjectHideFlags: 0
@@ -32999,7 +33164,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1780289874
 GameObject:
   m_ObjectHideFlags: 0
@@ -33139,7 +33304,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1782923694
 GameObject:
   m_ObjectHideFlags: 0
@@ -33279,7 +33444,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1804798885
 GameObject:
   m_ObjectHideFlags: 0
@@ -33419,7 +33584,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1821631995
 GameObject:
   m_ObjectHideFlags: 0
@@ -33559,7 +33724,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1827443311
 GameObject:
   m_ObjectHideFlags: 0
@@ -33699,7 +33864,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1829910466
 GameObject:
   m_ObjectHideFlags: 0
@@ -33839,7 +34004,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1831289942
 GameObject:
   m_ObjectHideFlags: 0
@@ -33979,7 +34144,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1847336822
 GameObject:
   m_ObjectHideFlags: 0
@@ -34119,7 +34284,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1850629909
 GameObject:
   m_ObjectHideFlags: 0
@@ -34259,7 +34424,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1855332187
 GameObject:
   m_ObjectHideFlags: 0
@@ -34399,7 +34564,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1856729232
 GameObject:
   m_ObjectHideFlags: 0
@@ -34539,7 +34704,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1860238336
 GameObject:
   m_ObjectHideFlags: 0
@@ -34679,7 +34844,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1863999209
 GameObject:
   m_ObjectHideFlags: 0
@@ -34819,7 +34984,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1874530787
 GameObject:
   m_ObjectHideFlags: 0
@@ -34959,7 +35124,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1892615809
 GameObject:
   m_ObjectHideFlags: 0
@@ -35416,7 +35581,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1931416121
 GameObject:
   m_ObjectHideFlags: 0
@@ -35556,7 +35721,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1937521182
 GameObject:
   m_ObjectHideFlags: 0
@@ -35696,7 +35861,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1944977929
 GameObject:
   m_ObjectHideFlags: 0
@@ -35836,7 +36001,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1946921601
 GameObject:
   m_ObjectHideFlags: 0
@@ -35976,7 +36141,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1959452380
 GameObject:
   m_ObjectHideFlags: 0
@@ -36116,7 +36281,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1990643867
 GameObject:
   m_ObjectHideFlags: 0
@@ -36256,7 +36421,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &1994648459
 GameObject:
   m_ObjectHideFlags: 0
@@ -36463,7 +36628,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &2017959715
 GameObject:
   m_ObjectHideFlags: 0
@@ -36603,7 +36768,109 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
+--- !u!1 &2020613402
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2020613406}
+  - component: {fileID: 2020613405}
+  - component: {fileID: 2020613404}
+  - component: {fileID: 2020613403}
+  m_Layer: 5
+  m_Name: Lose
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!114 &2020613403
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2020613402}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IgnoreReversedGraphics: 1
+  m_BlockingObjects: 0
+  m_BlockingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+--- !u!114 &2020613404
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2020613402}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_UiScaleMode: 0
+  m_ReferencePixelsPerUnit: 100
+  m_ScaleFactor: 1
+  m_ReferenceResolution: {x: 800, y: 600}
+  m_ScreenMatchMode: 0
+  m_MatchWidthOrHeight: 0
+  m_PhysicalUnit: 3
+  m_FallbackScreenDPI: 96
+  m_DefaultSpriteDPI: 96
+  m_DynamicPixelsPerUnit: 1
+  m_PresetInfoIsWorld: 0
+--- !u!223 &2020613405
+Canvas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2020613402}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_RenderMode: 0
+  m_Camera: {fileID: 0}
+  m_PlaneDistance: 100
+  m_PixelPerfect: 0
+  m_ReceivesEvents: 1
+  m_OverrideSorting: 0
+  m_OverridePixelPerfect: 0
+  m_SortingBucketNormalizedSize: 0
+  m_AdditionalShaderChannelsFlag: 0
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  m_TargetDisplay: 0
+--- !u!224 &2020613406
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2020613402}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0, y: 0, z: 0}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 594551774}
+  - {fileID: 1665461469}
+  m_Father: {fileID: 0}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0, y: 0}
 --- !u!1 &2042142512
 GameObject:
   m_ObjectHideFlags: 0
@@ -36743,7 +37010,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &2057305804
 GameObject:
   m_ObjectHideFlags: 0
@@ -36883,7 +37150,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &2062636836
 GameObject:
   m_ObjectHideFlags: 0
@@ -37023,7 +37290,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &2069249760
 GameObject:
   m_ObjectHideFlags: 0
@@ -37163,7 +37430,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &2075048241
 GameObject:
   m_ObjectHideFlags: 0
@@ -37303,7 +37570,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &2095249930
 GameObject:
   m_ObjectHideFlags: 0
@@ -37443,7 +37710,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &2097182817
 GameObject:
   m_ObjectHideFlags: 0
@@ -37539,7 +37806,7 @@ RectTransform:
   - {fileID: 1075273623}
   - {fileID: 175215220}
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -37685,7 +37952,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &2102364523
 GameObject:
   m_ObjectHideFlags: 0
@@ -37825,7 +38092,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &2115228530
 GameObject:
   m_ObjectHideFlags: 0
@@ -37965,7 +38232,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &2118133233
 GameObject:
   m_ObjectHideFlags: 0
@@ -38105,7 +38372,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &2129673611
 GameObject:
   m_ObjectHideFlags: 0
@@ -38292,7 +38559,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &2134756789
 GameObject:
   m_ObjectHideFlags: 0
@@ -38432,7 +38699,7 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}
 --- !u!1 &2147159638
 GameObject:
   m_ObjectHideFlags: 0
@@ -38572,4 +38839,4 @@ MonoBehaviour:
   cellSprite: {fileID: 269967}
   gameFinished: {fileID: 0}
   victory: {fileID: 847534634}
-  timer: {fileID: 0}
+  lose: {fileID: 2020613402}

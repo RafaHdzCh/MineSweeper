@@ -59,11 +59,11 @@ public class GridHelper : MonoBehaviour
             if (adjacentMines > 0) return;
 
             visited[x, y] = true;
+
             FloodFillUncover(x - 1, y, visited); //Izquierda
             FloodFillUncover(x + 1, y, visited); //Derecha
             FloodFillUncover(x, y - 1, visited); //Abajo
             FloodFillUncover(x, y + 1, visited); //Arriba
-
             FloodFillUncover(x - 1, y - 1, visited);
             FloodFillUncover(x - 1, y + 1, visited);
             FloodFillUncover(x + 1, y - 1, visited);
@@ -75,11 +75,12 @@ public class GridHelper : MonoBehaviour
     {
         foreach(Cell cell in cells)
         {
-            if(cell.IsCovered() && !cell.hasMine) return false;
+            if(cell.IsCovered() && !cell.hasMine)
+            {
+                return false;
+            }
         }
 
         return true;
     }
-
-
 }
